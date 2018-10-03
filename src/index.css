@@ -17,7 +17,7 @@ body {
 }
 
 .footer-bar {
-  position: absolute;
+  position: relative;
   bottom: 0;
   padding: 15px 0;
   text-align: center;
